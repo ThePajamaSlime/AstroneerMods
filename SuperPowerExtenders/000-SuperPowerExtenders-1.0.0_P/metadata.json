@@ -1,0 +1,9 @@
+{
+    "schema_version": 2,
+    "name": "Super Power Extenders",
+    "mod_id": "SuperPowerExtenders",
+    "author": "pjslime",
+    "description": "Makes Power Extenders super.",
+    "version": "1.0.0",
+    "sync": "serverclient"
+}
